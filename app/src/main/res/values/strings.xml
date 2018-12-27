@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Scheduler</string>
+    <string name="greeting_text">Welcome</string>
+    <string name="upcoming_ass_text">Upcoming assignments</string>
+    <string name="upcoming_alternate">No assignments</string>
+    <string name="assignment_tit">Assignment</string>
+    <string name="add_ass_txt">Add an assignment</string>
+    <string name="add_ass_name">Title</string>
+    <string name="due_on">due on</string>
+    <string name="for_txt">for</string>
+    <string name="desc_placeholder">Description (optional)</string>
+    <string name="submit_btn_txt">Submit</string>
+    <string name="mark_as_done_txt">Mark as done</string>
+    <string name="edit_ass_text">Edit assignment</string>
+    <string-array name="classes_array">
+        <item>AP US History</item>
+        <item>AP Language</item>
+        <item>AP Calculus AB</item>
+        <item>AP Chemistry</item>
+        <item>Health</item>
+    </string-array>
+</resources>
